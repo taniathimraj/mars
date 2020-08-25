@@ -1,1 +1,8 @@
-Mars text 1 
+Mars text 1
+second line to commit
+i have absolutely no idea waht to do now
+so to commit after u make chnges pleas etype git add .
+this will "commit" 
+ 
+
+ 
